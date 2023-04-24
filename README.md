@@ -16,5 +16,8 @@ Everyone can download datasets from many different sources:
 - Select suitable pre-trained models and build corresponding models.
 
 ## Evaluation
-
+- CNN
+- Resnet50v2
+- VGG16
+- Densnet201
 ## 
