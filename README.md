@@ -6,15 +6,15 @@ This source code is to build algorithms to automatically detect and classify fis
 
 ## Dataset
 Everyone can download datasets from many different sources:
-- Dataset Search (Google).
-- Kaggle.
-- Taco.
+- Dataset Search (Google)
+- Kaggle
+- Taco
 - .v.v.
 
 ## Image Classification
 ### Models
-- Set up and build CNN models.
-- Select suitable pre-trained models and build corresponding models.
+- Set up and build CNN models
+- Select suitable pre-trained models and build corresponding models
 
 ### Evaluation
 - CNN
@@ -24,4 +24,17 @@ Everyone can download datasets from many different sources:
 
 ## Object Detection
 ### Use YOLOv4 Model
+#### Prepare
+1. Hardware
+- VGA NVIDIA 
+- Webcam device
 
+2. Software
+- Python >=3.6
+- Tensorflow-GPU 2.x (can be installed with the command: pip install tensorflow-gpu)
+- Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
+- Microsoft Visual Studio 2022
+- NVIDIA CUDA Toolkit
+- NVIDIA cuDNN (register as a member before downloading)
+- Download the darknet package from Github
+- OpenCV v4
