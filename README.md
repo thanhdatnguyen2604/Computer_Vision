@@ -14,10 +14,12 @@ Everyone can download datasets from many different sources:
 ## Models
 - Set up and build CNN models.
 - Select suitable pre-trained models and build corresponding models.
+- Use YOLOv4 model.
 
 ## Evaluation
 - CNN
 - Resnet50v2
 - VGG16
 - Densnet201
+
 ## 
