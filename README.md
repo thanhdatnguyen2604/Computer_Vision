@@ -11,15 +11,17 @@ Everyone can download datasets from many different sources:
 - Taco.
 - .v.v.
 
-## Models
+## Image Classification
+### Models
 - Set up and build CNN models.
 - Select suitable pre-trained models and build corresponding models.
-- Use YOLOv4 model.
 
-## Evaluation
+### Evaluation
 - CNN
 - Resnet50v2
 - VGG16
 - Densnet201
 
-## 
+## Object Detection
+### Use YOLOv4 Model
+
