@@ -25,11 +25,11 @@ Everyone can download datasets from many different sources:
 ## Object Detection
 ### Use YOLOv4 Model
 #### Prepare
-1. Hardware
+**1. Hardware**
 - VGA NVIDIA 
 - Webcam device
 
-2. Software
+**2. Software**
 - Python >=3.6
 - Tensorflow-GPU 2.x (can be installed with the command: pip install tensorflow-gpu)
 - Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
